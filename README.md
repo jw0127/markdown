@@ -17,8 +17,9 @@
 
 이제 HTML의 용어를 표로 설명하겠습니다.
 
-
+| 약어 | 의미(lightcyan)              |
+|------|------------------------------|
+| HTML | HyperText Markup Language    |
+| CSS  | Cascading Style Sheet        |
   
-ㅣ약어ㅣ의미(lightcyan)ㅣ
-HTMLㅣHyperText Markup Languageㅣ
-CSSㅣCascading Style Sheetㅣ
+### 20212547 김지원
